@@ -1,3 +1,5 @@
+<br/><br/>
+
 <div align="center">
   <img src="assets/nx-logo-banner.png" alt="NX Computing" width="480"/>
 </div>
