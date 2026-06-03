@@ -35,7 +35,6 @@ I like building things that sit at the intersection of hardware and intelligence
   <!-- Add more links below if you want, e.g. portfolio, Twitter/X -->
 </p>
 
-<br/>
 
 <!-- ═══════════════════════════════════════════════
      💼  ABOUT / MENTIONS — edit this section
