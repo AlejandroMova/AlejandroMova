@@ -35,7 +35,6 @@ I like building things that sit at the intersection of hardware and intelligence
   <!-- Add more links below if you want, e.g. portfolio, Twitter/X -->
 </p>
 
-
 <!-- ═══════════════════════════════════════════════
      💼  ABOUT / MENTIONS — edit this section
      ═══════════════════════════════════════════════ -->
@@ -80,7 +79,6 @@ I like building things that sit at the intersection of hardware and intelligence
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white" height="50"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="50"/>
 </p>
 
 <br/>
