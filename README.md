@@ -12,7 +12,7 @@
 
 # Hi, I'm Alejandro Montoya 
 
-I'm a Robotics Engineering student at Tec de Monterrey and co-founder of NX Computing — 
+I'm a Robotics Engineering student at Tec de Monterrey and co-founder of NX Computing: 
 an edge AI startup building computer vision solutions with NVIDIA Jetson.
 I like building things that sit at the intersection of hardware and intelligence.
 
@@ -84,13 +84,14 @@ I like building things that sit at the intersection of hardware and intelligence
 
 ---
 
+<!-- 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroMova&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4B5EFC&icon_color=4B5EFC" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMova&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4B5EFC" height="170"/>
-</p>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlejandroMova&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4B5EFC&icon_color=4B5EFC" height="170"/>
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMova&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4B5EFC" height="170"/>
+  </p>
 
 <br/>
 
@@ -100,3 +101,5 @@ I like building things that sit at the intersection of hardware and intelligence
   <img src="assets/nx-icon-blue.png" alt="NX Computing" width="52"/>
   <br/>
 </div>
+
+-->
