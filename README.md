@@ -10,13 +10,12 @@
      👋  GREETING — edit this section
      ═══════════════════════════════════════════════ -->
 
-# Hi, I'm Alejandro Montoya 👋
+# Hi, I'm Alejandro Montoya 
 
-<!-- Add your own intro here. Example:
 I'm a Robotics Engineering student at Tec de Monterrey and co-founder of NX Computing — 
 an edge AI startup building computer vision solutions with NVIDIA Jetson.
 I like building things that sit at the intersection of hardware and intelligence.
--->
+
 
 <br/>
 
